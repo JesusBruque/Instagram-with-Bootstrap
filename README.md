@@ -1,26 +1,34 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+# Instagram-Photo-Feed-with-Bootstrap
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+![](https://cdn.iconscout.com/icon/free/png-128/bootstrap-6-1175203.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3GOCzkV644QlBbCqRQy1bVoabSOTBUNOTtSh3T2AvN36hz323zJEJt2onYlccsTL9Q&usqp=CAU)
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+_05/12/2021_
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+Proyecto realizando completamente con los elementos que proporciona [Boostrap](https://getbootstrap.com/) tratando de imitar la apariencia de Instagram. Este ejercicio fue realizado dentro del curso de Full Stack Developer de [4Geeks Academy](https://4geeksacademy.com/es/inicio/?lang=es).
 
-## What to do next?
+`<4Geeks GitHub>` : <https://github.com/4GeeksAcademy>
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+## Como visualizar este proyecto
+
+1) Abre un nuevo proyecto de GitPod.
+
+2) Introduce el siguiente comando en la terminal para clonar el proyecto:
+
+```sh
+$ git clone https://github.com/JesusBruque/Instagram-Photo-Feed-with-Bootstrap.git
+```
+3) Finalmente utiliza el siguiente comando para visualizar el proyecto en tu navegador:
 
 ```sh
 $ pip3 install flask && python3 server.py
 ```
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+![](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif)
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+---------
+Jesús Bruque Guerrero 
+
+`<GitHub>` : <https://github.com/JesusBruque>
+
+`<Linkedin>` : <https://www.linkedin.com/in/jes%C3%BAs-bruque-guerrero-ba7a75200/>
